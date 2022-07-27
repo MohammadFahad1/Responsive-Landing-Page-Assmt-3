@@ -1,0 +1,18 @@
+1. Must Have a Navigation bar (Not had to be the same as Ed Tech)
+2. Must Have Slider Carousel
+3. Website must have a different unique name of my own & it has to be shown at the title.
+4. Can't Use Lorem ipsum.
+5. Min 6 Courses Section.
+6. Explore the elearning institute section is Optional
+7. Meet our successfull students section is Optional
+8. Some Students Feedback section is Optional (Highly Recomended)
+9. Frequently Asked Questions Section is Required.
+10. Footer Section required Minimum 3 Social Icons.
+11. Not Mandatory to host on Netlify.
+12. Responsive is must.
+
+Bonus Marks
+13. Ready to join section when someone clicks register now a modul should open.
+14. Frequently Asked Question Section must have my own Questions and Answers minimum 4 Questions (1.Difference Between Flexbox and Grid., 2. Difference Between Bootstrap and Tailwind CSS., 3. What is CSS Box Model.4. What is a Semantic Tag with Examples.)
+15. Trusted by over 800+ companies section should only be visible on Large PC Device.
+16. Minimum 6 github commits.
