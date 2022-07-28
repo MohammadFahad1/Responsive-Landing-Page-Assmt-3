@@ -5,3 +5,29 @@
 .bg-sec {
     background-color: #F4FAFD;
 }
+
+#feedback button.carousel-control-prev,
+#feedback button.carousel-control-next {
+    width: 50px;
+    height: 50px;
+    background: #289BDE;
+    border-radius: 50%;
+    top: 50%;
+    display: none;
+}
+
+#feedback button.carousel-control-prev {
+    left: -25px;
+}
+
+#feedback button.carousel-control-next {
+    right: -25px;
+}
+
+@media screen and (min-width: 992px) {
+
+    #feedback button.carousel-control-prev,
+    #feedback button.carousel-control-next {
+        display: block;
+    }
+}
