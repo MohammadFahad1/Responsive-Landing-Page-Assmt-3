@@ -17,12 +17,23 @@
     transform: translateY(-50%);
 }
 
+button.carousel-control-prev,
+button.carousel-control-next {
+    width: 100px;
+}
+
 #feedback button.carousel-control-prev {
     left: -25px;
 }
 
 #feedback button.carousel-control-next {
     right: -25px;
+}
+
+.accordion-item {
+    margin-top: 10px;
+    border: 1px solid grey !important;
+    border-radius: 7px;
 }
 
 @media screen and (min-width: 992px) {
